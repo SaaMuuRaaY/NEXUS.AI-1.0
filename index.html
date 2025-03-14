@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXUS AI - Assistente Pessoal</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Barra lateral com informações do sistema -->
+        <div class="sidebar">
+            <div class="logo">
+                <h1>NEXUS AI</h1>
+            </div>
+            <div class="modules">
+                <h3>Módulos Ativos</h3>
+                <ul>
+                    <li><i class="fas fa-database"></i> DATABANK AI</li>
+                    <li><i class="fas fa-robot"></i> AUTOMA AI</li>
+                    <li><i class="fas fa-code"></i> CODEX AI</li>
+                    <li><i class="fas fa-microphone"></i> VOX AI</li>
+                    <li><i class="fas fa-chart-line"></i> ALGOR AI</li>
+                    <li><i class="fas fa-brain"></i> NEURAL AI</li>
+                </ul>
+            </div>
+            <div class="system-status">
+                <h3>Status do Sistema</h3>
+                <div class="status-item">
+                    <span>CPU:</span>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 30%"></div>
+                    </div>
+                </div>
+                <div class="status-item">
+                    <span>Memória:</span>
+                    <div class="progress-bar">
+                        <div class="progress" style="width: 45%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="settings-btn">
+                <button id="settings-toggle"><i class="fas fa-cog"></i> Configurações</button>
+            </div>
+        </div>
+
+        <!-- Área principal de chat -->
+        <div class="main-content">
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message system">
+                        <div class="message-content">
+                            <p>Bem-vindo ao NEXUS AI. Como posso ajudar você hoje?</p>
+                        </div>
+                    </div>
+                    <!-- As mensagens serão adicionadas aqui dinamicamente -->
+                </div>
+                <div class="chat-input">
+                    <textarea id="message-input" placeholder="Digite sua mensagem..."></textarea>
+                    <button id="send-btn"><i class="fas fa-paper-plane"></i></button>
+                    <button id="voice-btn"><i class="fas fa-microphone"></i></button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Painel de configurações (inicialmente oculto) -->
+        <div class="settings-panel" id="settings-panel">
+            <h2>Configurações</h2>
+            <div class="settings-section">
+                <h3>Aparência</h3>
+                <div class="setting-item">
+                    <label for="theme-select">Tema:</label>
+                    <select id="theme-select">
+                        <option value="light">Claro</option>
+                        <option value="dark" selected>Escuro</option>
+                        <option value="system">Sistema</option>
+                    </select>
+                </div>
+            </div>
+            <div class="settings-section">
+                <h3>Voz</h3>
+                <div class="setting-item">
+                    <label for="voice-select">Voz do Assistente:</label>
+                    <select id="voice-select">
+                        <option value="female" selected>Feminina</option>
+                        <option value="male">Masculina</option>
+                    </select>
+                </div>
+                <div class="setting-item">
+                    <label for="voice-speed">Velocidade da Fala:</label>
+                    <input type="range" id="voice-speed" min="0.5" max="2" step="0.1" value="1">
+                </div>
+            </div>
+            <div class="settings-section">
+                <h3>Comportamento</h3>
+                <div class="setting-item">
+                    <label for="auto-listen">Escuta Automática:</label>
+                    <input type="checkbox" id="auto-listen">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/renderer.js"></script>
+</body>
+</html> 
