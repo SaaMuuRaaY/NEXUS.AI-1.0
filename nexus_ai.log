@@ -1,0 +1,202 @@
+2025-03-14 15:57:32,022 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 15:57:32,023 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 15:57:32,023 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 15:57:32,023 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 15:57:32,023 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 15:57:32,023 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 16:11:04,259 - nexus_ai - INFO - Mensagem roteada para o módulo: codex
+2025-03-14 16:11:09,734 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 16:11:16,159 - nexus_ai - INFO - Mensagem roteada para o módulo: codex
+2025-03-14 16:31:16,476 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 16:31:16,477 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 16:31:16,477 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 16:31:16,477 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 16:31:16,477 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 16:31:16,477 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 16:42:19,679 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 16:42:19,679 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 16:42:19,679 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 16:42:19,679 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 16:42:19,679 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 16:42:19,680 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 16:53:37,393 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 17:06:56,979 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 17:16:52,766 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:16:52,767 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:16:52,767 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:16:52,767 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:16:52,767 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:16:52,767 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:16:57,577 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:18:04,821 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:18:04,822 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:18:04,822 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:18:04,822 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:18:04,822 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:18:04,822 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:19:29,204 - nexus_ai - INFO - Request 1741983569204 started: GET /status
+2025-03-14 17:19:29,205 - nexus_ai - INFO - Request 1741983569204 completed: 200 in 0.0011s
+2025-03-14 17:19:29,207 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:19:35,621 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 17:19:41,780 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:24:41,420 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:24:41,420 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:24:41,420 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:24:41,420 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:24:41,420 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:24:41,421 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:25:10,366 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:25:10,367 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:25:10,367 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:25:10,367 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:25:10,367 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:25:10,367 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:26:18,087 - nexus_ai - INFO - Request 1741983978087 started: GET /status
+2025-03-14 17:26:18,088 - nexus_ai - INFO - Request 1741983978087 completed: 200 in 0.0008s
+2025-03-14 17:26:18,090 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:27:44,728 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:29:23,880 - nexus_ai - INFO - Request 1741984163880 started: GET /status
+2025-03-14 17:29:23,881 - nexus_ai - INFO - Request 1741984163880 completed: 200 in 0.0007s
+2025-03-14 17:29:23,887 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:29:23,892 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 17:29:24,335 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:31:13,394 - nexus_ai - INFO - Request 1741984273394 started: GET /status
+2025-03-14 17:31:13,395 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:31:13,395 - nexus_ai - INFO - Request 1741984273394 completed: 200 in 0.0017s
+2025-03-14 17:32:12,742 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:32:12,742 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:32:12,742 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:32:12,742 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:32:12,743 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:32:12,743 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:32:24,259 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:33:34,812 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:33:39,858 - nexus_ai - INFO - Request 1741984419858 started: GET /status
+2025-03-14 17:33:39,859 - nexus_ai - INFO - Request 1741984419858 completed: 200 in 0.0012s
+2025-03-14 17:33:39,860 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:35:11,311 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:35:56,506 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:35:57,184 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:35:57,185 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:35:57,185 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:35:57,185 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:35:57,185 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:35:57,185 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:36:02,557 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:36:02,656 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:36:03,327 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:36:03,327 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:36:03,327 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:36:03,328 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:36:03,328 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:36:03,328 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:36:08,558 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:36:34,408 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:36:34,408 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:36:34,409 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:36:34,409 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:36:34,409 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:36:34,409 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:36:37,768 - nexus_ai - INFO - Request 1741984597768 started: GET /status
+2025-03-14 17:36:37,769 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:36:37,770 - nexus_ai - INFO - Request 1741984597768 completed: 200 in 0.0016s
+2025-03-14 17:37:21,749 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:38:08,976 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:39:10,188 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:39:10,189 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:39:10,189 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:39:10,189 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:39:10,189 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:39:10,189 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:39:13,079 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:40:19,170 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:40:19,926 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:40:19,926 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:40:19,926 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:40:19,926 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:40:19,927 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:40:19,927 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:42:31,706 - nexus_ai - INFO - Request 1741984951706 started: GET /status
+2025-03-14 17:42:31,707 - nexus_ai - INFO - Request 1741984951706 completed: 200 in 0.0011s
+2025-03-14 17:42:32,394 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:42:32,394 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:42:32,394 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:42:32,394 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:42:32,395 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:42:32,395 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 17:42:55,672 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:42:55,677 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 17:42:56,081 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:43:05,461 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:44:52,420 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:44:54,942 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:45:49,240 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:47:03,171 - nexus_ai - INFO - Request 1741985223171 started: GET /status
+2025-03-14 17:47:03,172 - nexus_ai - INFO - Request 1741985223171 completed: 200 in 0.0013s
+2025-03-14 17:47:03,175 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:47:52,449 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:48:56,424 - nexus_ai - INFO - Request 1741985336424 started: GET /status
+2025-03-14 17:48:56,425 - nexus_ai - INFO - Request 1741985336424 completed: 200 in 0.0016s
+2025-03-14 17:48:56,427 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:49:46,852 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:52:45,453 - nexus_ai - INFO - Request 1741985565453 started: GET /
+2025-03-14 17:52:45,454 - nexus_ai - INFO - Request 1741985565453 completed: 200 in 0.0009s
+2025-03-14 17:52:47,529 - nexus_ai - INFO - Request 1741985567529 started: GET /favicon.ico
+2025-03-14 17:52:47,530 - nexus_ai - INFO - Request 1741985567529 completed: 404 in 0.0008s
+2025-03-14 17:53:08,758 - nexus_ai - INFO - Request 1741985588758 started: GET /
+2025-03-14 17:53:08,759 - nexus_ai - INFO - Request 1741985588758 completed: 200 in 0.0006s
+2025-03-14 17:53:29,037 - nexus_ai - INFO - Request 1741985609037 started: GET /status
+2025-03-14 17:53:29,038 - nexus_ai - INFO - Request 1741985609037 completed: 200 in 0.0009s
+2025-03-14 17:53:29,040 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:54:28,284 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:55:10,760 - nexus_ai - INFO - Request 1741985710760 started: GET /
+2025-03-14 17:55:10,761 - nexus_ai - INFO - Request 1741985710760 completed: 200 in 0.0007s
+2025-03-14 17:55:14,691 - nexus_ai - INFO - Request 1741985714691 started: GET /status
+2025-03-14 17:55:14,692 - nexus_ai - INFO - Request 1741985714691 completed: 200 in 0.0007s
+2025-03-14 17:55:14,694 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:55:16,619 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:57:48,062 - nexus_ai - INFO - Request 1741985868062 started: GET /status
+2025-03-14 17:57:48,063 - nexus_ai - INFO - Request 1741985868062 completed: 200 in 0.0008s
+2025-03-14 17:57:48,083 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:57:48,100 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:58:00,287 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:58:00,288 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:58:29,004 - nexus_ai - INFO - Request 1741985909004 started: GET /status
+2025-03-14 17:58:29,004 - nexus_ai - INFO - Request 1741985909004 completed: 200 in 0.0007s
+2025-03-14 17:58:29,028 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 17:58:29,042 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 17:58:31,282 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 17:58:31,283 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 17:59:35,603 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 17:59:35,603 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 17:59:35,603 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 17:59:35,604 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 17:59:35,604 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 17:59:35,604 - nexus_ai - INFO - Módulo NEURAL AI inicializado
+2025-03-14 18:01:08,112 - nexus_ai - INFO - Request 1741986068112 started: GET /status
+2025-03-14 18:01:08,112 - nexus_ai - INFO - Request 1741986068112 completed: 200 in 0.0008s
+2025-03-14 18:01:08,130 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 1
+2025-03-14 18:01:08,154 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 2
+2025-03-14 18:01:22,532 - nexus_ai - INFO - Request 1741986082532 started: GET /status
+2025-03-14 18:01:22,533 - nexus_ai - INFO - Request 1741986082532 completed: 200 in 0.0007s
+2025-03-14 18:01:22,535 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 3
+2025-03-14 18:01:22,577 - nexus_ai - INFO - Nova conexão WebSocket estabelecida. Total: 4
+2025-03-14 18:01:38,503 - nexus_ai - INFO - Request 1741986098503 started: POST /chat
+2025-03-14 18:01:38,505 - nexus_ai - INFO - Mensagem roteada para o módulo: neural
+2025-03-14 18:01:38,906 - nexus_ai - INFO - Mensagem processada pelo módulo neural: legal...
+2025-03-14 18:01:38,907 - nexus_ai - INFO - Request 1741986098503 completed: 200 in 0.4044s
+2025-03-14 18:01:51,681 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 3
+2025-03-14 18:01:51,694 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 2
+2025-03-14 18:01:51,703 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 1
+2025-03-14 18:01:51,704 - nexus_ai - INFO - Conexão WebSocket encerrada. Total: 0
+2025-03-14 18:09:24,757 - nexus_ai - INFO - Módulo DATABANK AI inicializado
+2025-03-14 18:09:24,757 - nexus_ai - INFO - Módulo AUTOMA AI inicializado
+2025-03-14 18:09:24,758 - nexus_ai - INFO - Módulo CODEX AI inicializado
+2025-03-14 18:09:24,758 - nexus_ai - INFO - Módulo VOX AI inicializado
+2025-03-14 18:09:24,758 - nexus_ai - INFO - Módulo ALGOR AI inicializado
+2025-03-14 18:09:24,758 - nexus_ai - INFO - Módulo NEURAL AI inicializado
